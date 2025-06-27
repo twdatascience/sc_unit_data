@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['src/sc_unit_agg.py'],
+    ['src\\sc_unit_agg.py'],
     pathex=[],
     binaries=[],
     datas=[],
